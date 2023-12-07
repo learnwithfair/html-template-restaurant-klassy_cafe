@@ -1,7 +1,7 @@
 Thanks for downloading this theme!
 
 ## Live Visit
-Click For Live Visit=> [https://learnwithfair.github.io/html-template-klassy_cafe/](https://learnwithfair.github.io/html-template-restaurant-klassy_cafe/)
+[Click For Live Visit](https://learnwithfair.github.io/html-template-restaurant-klassy_cafe/)
 
 ## For More Website Demo
 Visit -> https://themewagon.com/theme-tag/restaurant-template/
