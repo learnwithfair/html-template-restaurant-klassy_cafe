@@ -1,7 +1,7 @@
 Thanks for downloading this theme!
 
 ## Live Visit
-https://learnwithfair.github.io/html-template-klassy_cafe/
+Click For Live Visit=> https://learnwithfair.github.io/html-template-klassy_cafe/
 ## Other Useful Links
 
 **ThemeWagon** is a great source for downloading free HTML templates built with the latest technology.
